@@ -1,0 +1,2 @@
+epsilon_T,epsilon_CX,removed_T,removed_CX,exact_measurement_error_threshold,first_order_threshold,exact_percent
+0.0001,0.001,4,2,0.0023981405239318354,0.0024000000000000002,0.23981405239318354

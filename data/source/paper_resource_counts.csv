@@ -1,0 +1,16 @@
+n,family,N_CX,N_T,D_T,source_note
+4,Static_S,19,23,19,Analytical case-study tuple used in manuscript
+4,Dynamic_D2,17,19,15,Analytical case-study tuple used in manuscript
+4,Mixed_D23,17,19,15,Analytical case-study tuple used in manuscript
+7,Static_S,37,47,43,Analytical case-study tuple used in manuscript
+7,Dynamic_D2,35,43,31,Analytical case-study tuple used in manuscript
+7,Mixed_D23,35,43,29,Analytical case-study tuple used in manuscript
+10,Static_S,55,71,67,Analytical case-study tuple used in manuscript
+10,Dynamic_D2,53,67,51,Analytical case-study tuple used in manuscript
+10,Mixed_D23,53,67,43,Analytical case-study tuple used in manuscript
+13,Static_S,73,95,91,Analytical case-study tuple used in manuscript
+13,Dynamic_D2,71,91,67,Analytical case-study tuple used in manuscript
+13,Mixed_D23,71,91,55,Analytical case-study tuple used in manuscript
+16,Static_S,91,119,115,Analytical case-study tuple used in manuscript
+16,Dynamic_D2,89,115,87,Analytical case-study tuple used in manuscript
+16,Mixed_D23,89,115,67,Analytical case-study tuple used in manuscript

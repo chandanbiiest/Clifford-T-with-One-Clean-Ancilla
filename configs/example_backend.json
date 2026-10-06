@@ -1,0 +1,20 @@
+{
+  "backend_id": "example-only",
+  "calibration_timestamp": null,
+  "durations_seconds": {
+    "t": 5e-8,
+    "cx": 3e-7,
+    "measurement": 1.2e-6,
+    "feedforward": 8e-7,
+    "reset": 8e-7,
+    "conditional_correction": 3e-7
+  },
+  "errors": {
+    "t": 0.0001,
+    "cx": 0.001,
+    "measurement": 0.002,
+    "reset": 0.001,
+    "conditional_correction": 0.001
+  },
+  "note": "Illustrative values only. Replace with a recorded backend snapshot before reporting hardware conclusions."
+}

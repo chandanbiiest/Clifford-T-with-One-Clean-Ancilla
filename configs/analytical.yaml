@@ -1,0 +1,9 @@
+# Human-readable parameter record used by scripts/01_reproduce_analytical.py
+normalized_timing:
+  tau_T: 1.0
+  tau_CX: 0.2
+reliability_example:
+  epsilon_T: 0.0001
+  epsilon_CX: 0.001
+  removed_T: 4
+  removed_CX: 2

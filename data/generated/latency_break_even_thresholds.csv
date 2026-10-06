@@ -1,0 +1,11 @@
+n,comparison,threshold,tau_T,tau_CX
+4,Static_S_to_Dynamic_D2,4.4,1.0,0.2
+4,Static_S_to_Mixed_D23,4.4,1.0,0.2
+7,Static_S_to_Dynamic_D2,12.4,1.0,0.2
+7,Static_S_to_Mixed_D23,14.4,1.0,0.2
+10,Static_S_to_Dynamic_D2,16.4,1.0,0.2
+10,Static_S_to_Mixed_D23,24.4,1.0,0.2
+13,Static_S_to_Dynamic_D2,24.4,1.0,0.2
+13,Static_S_to_Mixed_D23,36.4,1.0,0.2
+16,Static_S_to_Dynamic_D2,28.4,1.0,0.2
+16,Static_S_to_Mixed_D23,48.4,1.0,0.2
